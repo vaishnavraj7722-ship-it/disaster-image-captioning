@@ -1,0 +1,12 @@
+checkpoints/
+data/
+florence_env/
+blip_env/
+datacheckpoints/
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.bin
+*.safetensors
+.ipynb_checkpoints/
